@@ -9,9 +9,9 @@ const popupNoText = popupNo.querySelector("h2");
 
 const encouragement = [
     "Keep going, you'll get there!",
-    "JavaScript takes time—stick with it!",
+    "JavaScript takes time stick with it!",
     "Every expert was once a beginner!",
-    "You'll crack it soon—just keep practicing!",
+    "You'll crack it soon just keep practicing!",
 ];
 
 yesBtn.addEventListener("click", () => {
